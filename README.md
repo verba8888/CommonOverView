@@ -2,7 +2,9 @@
 
 ## Description
 
-easy loading view
+simple loading view
+
+<img src="https://raw.github.com/wiki/verba8888/CommonOverView/IMG_3521.PNG" width="250">
 
 ## HowTo
 
