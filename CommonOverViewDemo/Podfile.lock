@@ -1,0 +1,19 @@
+PODS:
+  - CommonOverView (0.0.1)
+
+DEPENDENCIES:
+  - CommonOverView (from `https://github.com/verba8888/CommonOverView.git`)
+
+EXTERNAL SOURCES:
+  CommonOverView:
+    :git: https://github.com/verba8888/CommonOverView.git
+
+CHECKOUT OPTIONS:
+  CommonOverView:
+    :commit: ed0f673c332adac4529a4528e1bad9ee6f104312
+    :git: https://github.com/verba8888/CommonOverView.git
+
+SPEC CHECKSUMS:
+  CommonOverView: 7c712383cdda1f6e268784ec682e797f83bf40c2
+
+COCOAPODS: 0.38.2

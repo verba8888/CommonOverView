@@ -1,0 +1,2 @@
+platform :ios,'7.0'
+pod 'CommonOverView', :git => 'https://github.com/verba8888/CommonOverView.git'

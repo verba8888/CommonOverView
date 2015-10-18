@@ -1,0 +1,24 @@
+{
+  "name": "CommonOverView",
+  "version": "0.0.1",
+  "summary": "ios CommonOverView.",
+  "description": "Library with common code",
+  "homepage": "https://github.com/verba8888/CommonOverView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "verba8888": "res.non.verba8888+github@gmail.com"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source": {
+    "git": "https://github.com/verba8888/CommonOverView.git",
+    "tag": "0.0.1"
+  },
+  "requires_arc": true,
+  "source_files": "CommonOverView",
+  "resources": "CommonOverView/*.xcassets"
+}
