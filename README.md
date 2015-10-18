@@ -6,16 +6,20 @@ easy loading view
 
 ## HowTo
 
-//most top view
+most top view
+
 [[CommonOverView sharedInstance]showIndicator];
 
-//select view
+select view
+
 [[CommonOverView sharedInstance]showIndicatorWithView:View];
 
-//bottom overlay
+bottom overlay
+
 [[CommonOverView sharedInstance]showBottonDialogWithText:@"text"];
 
-//hide
+hide
+
 [[CommonOverView sharedInstance]hideIndicator];
 
 ## Install
